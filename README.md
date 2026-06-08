@@ -32,9 +32,6 @@ clearbank-analise/
 git clone https://github.com/amaurimarx/clearbank-analise.git
 cd clearbank-analise
 
-# (Opcional) Crie um ambiente virtual
-python -m venv venv && source venv/bin/activate
-
 # Abra o notebook
 jupyter notebook desafio-final.ipynb
 ```
